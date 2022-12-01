@@ -288,18 +288,6 @@
     }
   },
   {
-    "id": "swsh7-29",
-    "name": "Gyarados VMAX",
-    "supertype": "Pokémon",
-    "subtypes": ["VMAX"],
-    "number": "29",
-    "rarity": "Rare Holo VMAX",
-    "images": {
-      "small": "https://images.pokemontcg.io/swsh7/29.png",
-      "large": "https://images.pokemontcg.io/swsh7/29_hires.png"
-    }
-  },
-  {
     "id": "swsh45sv-SV111",
     "name": "Lapras VMAX",
     "supertype": "Pokémon",
@@ -307,8 +295,8 @@
     "number": "SV111",
     "rarity": "Rare Holo VMAX",
     "images": {
-      "small": "https://images.pokemontcg.io/swsh45sv/SV111.png",
-      "large": "https://images.pokemontcg.io/swsh45sv/SV111_hires.png"
+      "small": "https://i.imgur.com/ez6i2we.png",
+      "large": "https://i.imgur.com/ez6i2we.png"
     }
   },
   {
@@ -319,8 +307,8 @@
     "number": "29",
     "rarity": "Rare Holo VMAX",
     "images": {
-      "small": "https://images.pokemontcg.io/swsh9/29.png",
-      "large": "https://images.pokemontcg.io/swsh9/29_hires.png"
+      "small": "https://i.imgur.com/9RVHPnc.png",
+      "large": "https://i.imgur.com/9RVHPnc.png"
     }
   },
   {
@@ -799,8 +787,8 @@
     "number": "TG17",
     "rarity": "Rare Holo V",
     "images": {
-      "small": "https://images.pokemontcg.io/swsh9tg/TG17.png",
-      "large": "https://images.pokemontcg.io/swsh9tg/TG17_hires.png"
+      "small": "public/img/Equipment-1.png",
+      "large": "public/img/Equipment-1.png"
     }
   },
   {
